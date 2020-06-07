@@ -1,5 +1,5 @@
 # DGS Scoreboard 
-**A Scoreboard Based DGS ([Thisdp's DirectX Graphical User Interface System](https://github.com/thisdp/dgs)) For MTA Servers **
+**A Scoreboard Based DGS ([Thisdp's DirectX Graphical User Interface System](https://github.com/thisdp/dgs)) For MTA Servers**
 
 # Installation 
 *Just copy  DGS/DGS-Scoreboard into you resources directory
@@ -17,9 +17,9 @@
 * 3.You are not permitted to sell DGS-Scoreboard.
 
 # Contacts 
-* Telegram : **[@Abasalt_Yar](https://t.me/Abasalt_Yar)
-* Discord : **Abasalt_Yar#0101
-* Email : **AbasaltYarmohammadzey@Gmail.Com
+* Telegram : **[@Abasalt_Yar](https://t.me/Abasalt_Yar)**
+* Discord : **Abasalt_Yar#0101**
+* Email : **AbasaltYarmohammadzey@Gmail.Com**
 
 # Enjoy
-* **Enjoy ;)
+* **Enjoy ;)**
