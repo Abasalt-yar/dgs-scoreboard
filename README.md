@@ -5,11 +5,11 @@
 **A Simple Scoreboard Based DGS ([Thisdp's DirectX Graphical User Interface System](https://github.com/thisdp/dgs)) For MTA Servers**
 
 # Installation 
-*Just copy  DGS/DGS-Scoreboard into you resources directory
-*start dgs
-*start dgs-scoreboard
-*Config columns
-*Have Fun
+* Just copy  DGS/DGS-Scoreboard into you resources directory
+* start dgs
+* start dgs-scoreboard
+* Config columns
+* Have Fun
 
 # License
 
