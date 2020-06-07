@@ -1,6 +1,6 @@
-```
+
 ![ScreenShot](http://s12.picofile.com/file/8399427142/image_2020_06_07_20_48_04.png)
-```
+
 # DGS Scoreboard 
 **A Scoreboard Based DGS ([Thisdp's DirectX Graphical User Interface System](https://github.com/thisdp/dgs)) For MTA Servers**
 
