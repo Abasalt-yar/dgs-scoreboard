@@ -1,0 +1,7 @@
+<meta>
+    <info author="Abasalt_Yar/thisdp" desciption="Scoreboard Using DGS" version="1.0.0" />
+    <script src="ScoreBoard_s.lua" type="server"/>
+    <script src="ScoreBoard_c.lua" type="client" cache="false" />
+
+    <file src="Font.ttf" /> <!-- Roberto Font -->
+</meta>
